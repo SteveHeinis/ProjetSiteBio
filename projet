@@ -13,6 +13,7 @@
 
 <body>
 <center>
+
 <header>
 <h1>Steve Heinis</h1>
 <h2>Noisy-Le-Grand</h2>
@@ -20,13 +21,21 @@
 <img class="moi" src="Steve.jpg" class="img-responsive" alt="Photo de moi">
 </header>
 
-<div class="row liens">
+<div class="reseaux">
+<div class="facebook">
 <a href="https://www.facebook.com/stevynus" target="_blank">Facebook</a>
+</div>
+<div class="twitter">
 <a href="https://twitter.com/SteveHeinis" target="_blank">Twitter</a>
+</div>
+<div class="instagram">
 <a href="https://www.instagram.com/steve_heinis/?hl=fr" target="_blank">Instagram</a>
 </div>
-<table>
+</div>
 
+
+
+<table>
 
 <tr>
 <th colspan=4 align=center>MON TOP</th>
@@ -61,11 +70,13 @@
 </tr>
 
 </table>
+
 <footer>
 
 </footer>
 
 </center>
+
 </body>
 
 </html>

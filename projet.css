@@ -31,10 +31,13 @@ td, th {
  	width: 400px;
  }
 
-.liens {
+.reseaux {
 	display: flex;
-	justify-content: space-around;
+	justify-content: center;
 }
 
+.facebook, .twitter, .instagram {
+	padding: 15px;
+}
 
 
