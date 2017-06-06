@@ -3,7 +3,7 @@
 <html>
 
 <head>
-
+<link href="https://fonts.googleapis.com/css?family=Ubuntu|Vibur" rel="stylesheet">
 <link rel="stylesheet" href="projet.css" />
 <meta charset = "utf-8">
 
@@ -13,12 +13,12 @@
 
 <body>
 <center>
-
+<header>
 <h1>Steve Heinis</h1>
 <h2>Noisy-Le-Grand</h2>
 <p>21 ans, fan de football et gamer à ses heures perdues. Actuellement en formation de "Developpeur Web" à Simplon. </p>
-
-<img src="Steve.jpg" class="img-responsive" alt="Photo de moi">
+<img class="moi" src="Steve.jpg" class="img-responsive" alt="Photo de moi">
+</header>
 
 <div class="row liens">
 <a href="https://www.facebook.com/stevynus" target="_blank">Facebook</a>
@@ -61,6 +61,9 @@
 </tr>
 
 </table>
+<footer>
+
+</footer>
 
 </center>
 </body>

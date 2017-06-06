@@ -3,10 +3,38 @@ table {
 }
 
 td, th { 
- border: 1px solid black;
- text-align: center; }
+ border: 1px solid white;
+ text-align: center;
+ font-family: "Vibur", cursive }
+
+ body {
+ 	background-color: black;
+ 	font-family: fantasy;
+ 	color: white;
+ }
+
+ header {
+ 	color: red;
+ 	font-family: 'Ubuntu', cursive;
+ 	font-size: medium;
+ 	line-height: 3,5;
+ }
+
+ a {
+ 	text-decoration: none;
+ 	color: red;
+ }
+
+ a:hover {color:green;}
+
+ .moi {
+ 	width: 400px;
+ }
 
 .liens {
 	display: flex;
 	justify-content: space-around;
 }
+
+
+
