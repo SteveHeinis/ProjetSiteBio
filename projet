@@ -1,0 +1,68 @@
+<!DOCTYPE html!>
+
+<html>
+
+<head>
+
+<link rel="stylesheet" href="projet.css" />
+<meta charset = "utf-8">
+
+<title> BIO STEVE HEINIS </title>
+
+</head>
+
+<body>
+<center>
+
+<h1>Steve Heinis</h1>
+<h2>Noisy-Le-Grand</h2>
+<p>21 ans, fan de football et gamer à ses heures perdues. Actuellement en formation de "Developpeur Web" à Simplon. </p>
+
+<img src="Steve.jpg" class="img-responsive" alt="Photo de moi">
+
+<div class="row liens">
+<a href="https://www.facebook.com/stevynus" target="_blank">Facebook</a>
+<a href="https://twitter.com/SteveHeinis" target="_blank">Twitter</a>
+<a href="https://www.instagram.com/steve_heinis/?hl=fr" target="_blank">Instagram</a>
+</div>
+<table>
+
+
+<tr>
+<th colspan=4 align=center>MON TOP</th>
+</tr>
+
+<tr>
+<th> FILMS </th>
+<th> JEUX </th>
+<th> FOOT </th>
+<th> SERIES </th>
+</tr>
+
+<tr>
+<td> SCARFACE </td>
+<td> THE WITCHER 3 </td>
+<td> PSG </td>
+<td> BREAKING BAD </td>
+</tr>
+
+<tr>
+<td> LSDA </td>
+<td> RED DEAD REDEMPTION </td>
+<td> LIVERPOOL </td>
+<td> GAME OF THRONES </td>
+</tr>
+
+<tr>
+<td> TRILOGIE DARK KNIGHT </td>
+<td> THE LAST OF US </td>
+<td> INTER DE MILAN </td>
+<td> WESTWORLD </td>
+</tr>
+
+</table>
+
+</center>
+</body>
+
+</html>
