@@ -8,9 +8,14 @@ td, th {
  font-family: "Vibur", cursive }
 
  body {
- 	background-color: black;
+ 	background-color: grey;
  	font-family: fantasy;
  	color: white;
+ 	display: flex;
+ }
+
+ body > * {
+ 	flex: 1;
  }
 
  header {
@@ -27,9 +32,36 @@ td, th {
 
  a:hover {color:green;}
 
- .moi {
- 	width: 400px;
+ .nav {
+  width: 200px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  position: fixed;
+  top: 10px;
  }
+
+ .nav li {
+  background: black;
+  color: #fff ;
+  border: 2px solid blue ;
+  margin-bottom: 1px ;
+ }
+
+.nav li a {
+  display: block;
+  background: black;
+  color: red ;
+  font: 1em "Trebuchet MS",Arial,sans-serif ;
+  line-height: 1em ;
+  text-align: center ;
+  text-decoration: none ;
+  padding: 4px 0 ;
+}
+
+.moi {
+	width: 400px;
+}
 
 .reseaux {
 	display: flex;
@@ -38,6 +70,35 @@ td, th {
 
 .facebook, .twitter, .instagram {
 	padding: 15px;
+}
+
+.presentation { 
+ border : solid 5px;
+ border-color: blue;
+ width: 600px;
+ background-color: black;
+ margin: 10px;}
+
+ .tab {
+ border : solid 5px;
+ border-color: blue;
+ width: 600px;
+ background-color: black;
+ padding: 5px;
+ margin: 10px;
+ }
+
+ #Coupdecoeur, #Historique, #Infos {
+ 	border : solid 5px;
+ border-color: blue;
+ width: 600px;
+ background-color: black;
+ padding: 5px;
+ margin: 10px;
+ }
+
+.text {
+	text-align: left;
 }
 
 

@@ -12,15 +12,14 @@
 </head>
 
 <body>
-<center>
-
+<div id="part1">
 <header>
+<div class="presentation">
+<center>
 <h1>Steve Heinis</h1>
 <h2>Noisy-Le-Grand</h2>
-<p>21 ans, fan de football et gamer à ses heures perdues. Actuellement en formation de "Developpeur Web" à Simplon. </p>
+<p><FONT color="white">21 ans, fan de football et gamer à ses heures perdues. Actuellement en formation de "Developpeur Web" à Simplon.</FONT></p>
 <img class="moi" src="Steve.jpg" class="img-responsive" alt="Photo de moi">
-</header>
-
 <div class="reseaux">
 <div class="facebook">
 <a href="https://www.facebook.com/stevynus" target="_blank">Facebook</a>
@@ -32,13 +31,53 @@
 <a href="https://www.instagram.com/steve_heinis/?hl=fr" target="_blank">Instagram</a>
 </div>
 </div>
+</center>
+</header>
 
+<footer>
 
+</footer>
 
+</center>
+</div>
+<div id="part2">
+
+<div id="Coupdecoeur">
+<center>
+<h3><FONT color="red"> Coup de coeur du moment : Westworld </FONT></h3>
+
+<div class="text">
+<p>Westworld est un parc d'attractions futuriste recréant l'univers de l'Ouest américain (Far West) du xixe siècle. Propriété de la société Delos, il est peuplé d'androïdes, appelés « hôtes » (hosts), réinitialisés à la fin de chaque boucle narrative. Les visiteurs fortunés, appelés « nouveaux venus » ou « invités », peuvent y faire ce qu'ils veulent sans aucune conséquence. Mais à la suite d'une mise à jour du programme des androïdes intitulée Rêveries, les dirigeants du parc doivent faire face à plusieurs bugs dans leur comportement.</p>
+</div>
+</center>
+</div>
+
+<div id="Historique">
+<center>
+<h3><FONT color="red"> Mon historique "Coup de coeur" </FONT></h3>
+
+<div class="text">
+<p> Westworld - Fargo - 13 Reasons Why - L'Attaque des Titans - Hitman - Vikings - Zelda : Breath of the Wild </p>
+</div>
+</center>
+</div>
+
+<div id="Infos">
+<center>
+<h3><FONT color="red"> Infos </FONT></h3>
+
+<div class="text">
+<p> Ce site est édité par "Moi Même", une société du groupe "Moi". Copyright 1995-2017. Moi Même. <br> Tous droits reservés. </p>
+</div>
+</center>
+</div>
+
+<div class="tab">
+<center>
 <table>
 
 <tr>
-<th colspan=4 align=center>MON TOP</th>
+<th colspan=4 align=center><FONT color="red">MON TOP</FONT></th>
 </tr>
 
 <tr>
@@ -68,15 +107,11 @@
 <td> INTER DE MILAN </td>
 <td> WESTWORLD </td>
 </tr>
-
 </table>
-
-<footer>
-
-</footer>
-
 </center>
-
+</div>
+	
+</div>
 </body>
 
 </html>
